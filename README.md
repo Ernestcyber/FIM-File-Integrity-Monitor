@@ -15,7 +15,9 @@ In this lab i setup a File Integrity Monitor to inspect and monitor files contin
 <h2>Environments Used </h2>
 
 - <b>Oracle VirtualBox</b>
-- <b>Windows 10</b> 
+- <b>Windows 10</b>
+
+<!--
 
 <h2>Lab walk-through:</h2>
 
@@ -97,6 +99,8 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+--!>
 
 <!--
  ```diff
